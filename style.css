@@ -1,0 +1,12 @@
+body {
+    
+    background-color: firebrick;
+    text-align: center;
+}
+h1 {
+    
+    color: silver;
+    border-width: thick;
+    border-color: bisque;
+    border-style: ridge;
+}
